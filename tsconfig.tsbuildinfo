@@ -1,0 +1,1226 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es6.d.ts": {
+        "version": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da",
+        "signature": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a",
+        "signature": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/consts.d.ts": {
+        "version": "0ec4e8353c5ace9a1bb2e309da49202ead23d7c46a8d2dcd6e626a41cd23ac2e",
+        "signature": "0ec4e8353c5ace9a1bb2e309da49202ead23d7c46a8d2dcd6e626a41cd23ac2e"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/logging.d.ts": {
+        "version": "1f5dd3d97383e57ccbba9e918192c73644752e38dde6a7460f3c59cf2ce5016d",
+        "signature": "1f5dd3d97383e57ccbba9e918192c73644752e38dde6a7460f3c59cf2ce5016d"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/protocol.d.ts": {
+        "version": "2b904b2ff52add1e092d41a22dec49847418f0543ef50eda19e9c8e737b36a0d",
+        "signature": "2b904b2ff52add1e092d41a22dec49847418f0543ef50eda19e9c8e737b36a0d"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/network.d.ts": {
+        "version": "6b6c845400d9596a59ab60ff06ea6bae1ca5ee367b5ce452f0ef4ffb95eecddc",
+        "signature": "6b6c845400d9596a59ab60ff06ea6bae1ca5ee367b5ce452f0ef4ffb95eecddc"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/axios/index.d.ts": {
+        "version": "9b3812f5ae5c9c8c9daf7107e1041f4ad9d19aebd12b738a81f22a1ac1f5e371",
+        "signature": "9b3812f5ae5c9c8c9daf7107e1041f4ad9d19aebd12b738a81f22a1ac1f5e371"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/misc.d.ts": {
+        "version": "8f68c283a55bc85db687f681fe7f5a21f357396ad4402c764a5c5adfb5472029",
+        "signature": "8f68c283a55bc85db687f681fe7f5a21f357396ad4402c764a5c5adfb5472029"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/convert.d.ts": {
+        "version": "78a96987f6b178638d185894eeb7d7e39af90eb9a882ebe5b9b2439405d5edc2",
+        "signature": "78a96987f6b178638d185894eeb7d7e39af90eb9a882ebe5b9b2439405d5edc2"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/hash.d.ts": {
+        "version": "78b0cf961ae48ff6375921a23ec1f7a4c66e11980b60cf2220fb989d0a4a0250",
+        "signature": "78b0cf961ae48ff6375921a23ec1f7a4c66e11980b60cf2220fb989d0a4a0250"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/bignumber.js/bignumber.d.ts": {
+        "version": "9e9798ef4b75092ec54f6a3802240b5b6df57b3eb3e43d8a81ff3af5a77427ed",
+        "signature": "9e9798ef4b75092ec54f6a3802240b5b6df57b3eb3e43d8a81ff3af5a77427ed"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts": {
+        "version": "4b6833262b66b49c0c2f2056ba20e4ea4b0c3f69e113a6e44e5c659f658db2f5",
+        "signature": "4b6833262b66b49c0c2f2056ba20e4ea4b0c3f69e113a6e44e5c659f658db2f5"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/stringstream.d.ts": {
+        "version": "11ca6e1408d3dee1bb8e2f05e25eea5ca3c1f2a040632323d3b323c94ae081f2",
+        "signature": "11ca6e1408d3dee1bb8e2f05e25eea5ca3c1f2a040632323d3b323c94ae081f2"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/random.d.ts": {
+        "version": "aa031f5ee50aa06867c22cb3d5f6d81beeddc5945774113188ac5956d915f95c",
+        "signature": "aa031f5ee50aa06867c22cb3d5f6d81beeddc5945774113188ac5956d915f95c"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts": {
+        "version": "435a2aef72dba043c614910693d362cb843b5eea9206b01a33310ac332df0bb3",
+        "signature": "435a2aef72dba043c614910693d362cb843b5eea9206b01a33310ac332df0bb3"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/nep2.d.ts": {
+        "version": "dcefa81337eda2b0a0f710dd6ccfdba32fe2463a7b9ab8bbeb7b14047209d987",
+        "signature": "dcefa81337eda2b0a0f710dd6ccfdba32fe2463a7b9ab8bbeb7b14047209d987"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/account.d.ts": {
+        "version": "542e941c2f8ca26743b1cdcc8e53563029f47de9c4447c8ffa32c9303087e20c",
+        "signature": "542e941c2f8ca26743b1cdcc8e53563029f47de9c4447c8ffa32c9303087e20c"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/helper.d.ts": {
+        "version": "f20ed7880b82aa01dbdeb598a5c5ebd8921455d5359d8ee55c393e4ec9b3b93f",
+        "signature": "f20ed7880b82aa01dbdeb598a5c5ebd8921455d5359d8ee55c393e4ec9b3b93f"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts": {
+        "version": "0ac84bb74f0d6164113e0129c223438143ee24210a6118b2d8d856007dd991e7",
+        "signature": "0ac84bb74f0d6164113e0129c223438143ee24210a6118b2d8d856007dd991e7"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts": {
+        "version": "c5ab37ae879ab9ef78f1c84ef6fdfa5011b9f6f1a8795d1fe37aff021b32a3b1",
+        "signature": "c5ab37ae879ab9ef78f1c84ef6fdfa5011b9f6f1a8795d1fe37aff021b32a3b1"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/balance.d.ts": {
+        "version": "70b616daa0966e0297e4120b1c1736993ba68deed8c549f415c507d8bbaf0b07",
+        "signature": "70b616daa0966e0297e4120b1c1736993ba68deed8c549f415c507d8bbaf0b07"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/claimitem.d.ts": {
+        "version": "fed648b8e896fe03f3e697283d2d267076c9df78fef796818871557421c0263b",
+        "signature": "fed648b8e896fe03f3e697283d2d267076c9df78fef796818871557421c0263b"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/claims.d.ts": {
+        "version": "6082b4e33adfb7391552523ff176178fa441e2263fcf7d183ed41d6fb62bd137",
+        "signature": "6082b4e33adfb7391552523ff176178fa441e2263fcf7d183ed41d6fb62bd137"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/core.d.ts": {
+        "version": "ec2f9b6afdd23509f67004bbe9d522f8502d22ee88506ae0ec8f89cb5e52bdb2",
+        "signature": "ec2f9b6afdd23509f67004bbe9d522f8502d22ee88506ae0ec8f89cb5e52bdb2"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/verify.d.ts": {
+        "version": "1e04b4b065519cce5aa604f873d22a959c597a4f88e735daba1458d912c8339a",
+        "signature": "1e04b4b065519cce5aa604f873d22a959c597a4f88e735daba1458d912c8339a"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/events/index.d.ts": {
+        "version": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935",
+        "signature": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/node/inspector.d.ts": {
+        "version": "71f5e4a14f2464935a7a244d614e9cf7fc312441d83188abc6b799ce5d051830",
+        "signature": "71f5e4a14f2464935a7a244d614e9cf7fc312441d83188abc6b799ce5d051830"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts": {
+        "version": "e1ec09cc2372c1b07c644c0a21b06e20f8f0781d40215a851000eeb326eff3e2",
+        "signature": "e1ec09cc2372c1b07c644c0a21b06e20f8f0781d40215a851000eeb326eff3e2"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/node_modules/@types/bn.js/index.d.ts": {
+        "version": "bf4eed78073d4d15d4e8f7fe5a65a2be5dc16389dee24ac3d87eadc698be038f",
+        "signature": "bf4eed78073d4d15d4e8f7fe5a65a2be5dc16389dee24ac3d87eadc698be038f"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/index.d.ts": {
+        "version": "0fc8feb0e71b7312fcfc032c9696bad1c622096c9e6a015c583ae8cdc9f72e90",
+        "signature": "0fc8feb0e71b7312fcfc032c9696bad1c622096c9e6a015c583ae8cdc9f72e90"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/signing.d.ts": {
+        "version": "38c6806c4e983d5dc00b5713f25bc929432e1ad689fdd63ce1b8f7520576b3e4",
+        "signature": "38c6806c4e983d5dc00b5713f25bc929432e1ad689fdd63ce1b8f7520576b3e4"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/index.d.ts": {
+        "version": "7c9d8210e0a23128da331b771922808bbbaae14aad4a5d1426eef2359e6df44b",
+        "signature": "7c9d8210e0a23128da331b771922808bbbaae14aad4a5d1426eef2359e6df44b"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/wallet.d.ts": {
+        "version": "26cdacb63067611bfb5d819c7553b679ca63fbac3614a0dd3d836ec372c8b167",
+        "signature": "26cdacb63067611bfb5d819c7553b679ca63fbac3614a0dd3d836ec372c8b167"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/multisig.d.ts": {
+        "version": "b6707d9fd0ac96c7f38592ec27c7f7b125a58276f4c0d074c666417f2aa5068e",
+        "signature": "b6707d9fd0ac96c7f38592ec27c7f7b125a58276f4c0d074c666417f2aa5068e"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts": {
+        "version": "465bf44c3df2113585b23118dd82612c42ef381effeb641fafe6dc3f42aaa8b9",
+        "signature": "465bf44c3df2113585b23118dd82612c42ef381effeb641fafe6dc3f42aaa8b9"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/txattrusage.d.ts": {
+        "version": "2deb098f04b705d44f34dac66bab72bfccf2c9245fc7261ed1566c53ff7bd643",
+        "signature": "2deb098f04b705d44f34dac66bab72bfccf2c9245fc7261ed1566c53ff7bd643"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionattribute.d.ts": {
+        "version": "7f1c8c3798200e74fe01f86a6e8fd31b86e8b84b0e1ccb9afa9f0174de0700b6",
+        "signature": "7f1c8c3798200e74fe01f86a6e8fd31b86e8b84b0e1ccb9afa9f0174de0700b6"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactioninput.d.ts": {
+        "version": "e867edefea749a1add2e321b05bca5213f20a7397b36c68087185446fc38b276",
+        "signature": "e867edefea749a1add2e321b05bca5213f20a7397b36c68087185446fc38b276"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionoutput.d.ts": {
+        "version": "dd3f09e5db3285ebecd1a7bb07700276351887e9da47cd65128fe1085e62e248",
+        "signature": "dd3f09e5db3285ebecd1a7bb07700276351887e9da47cd65128fe1085e62e248"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/witness.d.ts": {
+        "version": "78c315a13abc30f3c8f643f1e2b1903bc8a6dd1c368131dfa0d3bdf06d958439",
+        "signature": "78c315a13abc30f3c8f643f1e2b1903bc8a6dd1c368131dfa0d3bdf06d958439"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/statedescriptor.d.ts": {
+        "version": "bded8bf4bb036d6f0697b584046a1673c1d3a21e85715e7ae170cab1b45e62de",
+        "signature": "bded8bf4bb036d6f0697b584046a1673c1d3a21e85715e7ae170cab1b45e62de"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts": {
+        "version": "d543eb6c04a76c4f315111348776d5e2c7308b41c0898620e73cda8e76cef807",
+        "signature": "d543eb6c04a76c4f315111348776d5e2c7308b41c0898620e73cda8e76cef807"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts": {
+        "version": "9ad725d54d2a8d10cc8335378c0aa4e1f217e32b48738d2e53b6b1689534fe81",
+        "signature": "9ad725d54d2a8d10cc8335378c0aa4e1f217e32b48738d2e53b6b1689534fe81"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts": {
+        "version": "0a60cb766459aaa61bb6cfe80ff30cc52f5571b355b9ceeedd0f08307d9a2ab2",
+        "signature": "0a60cb766459aaa61bb6cfe80ff30cc52f5571b355b9ceeedd0f08307d9a2ab2"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts": {
+        "version": "c5dbeeafd96ad55cc67675cc1d6c35a124732f4adab8dfe945749f115e9ca704",
+        "signature": "c5dbeeafd96ad55cc67675cc1d6c35a124732f4adab8dfe945749f115e9ca704"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/query.d.ts": {
+        "version": "5812a20f2ea951f10201aa27aa1781dd115a3fb8ca5d496d6e5b3914580a520e",
+        "signature": "5812a20f2ea951f10201aa27aa1781dd115a3fb8ca5d496d6e5b3914580a520e"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/contractparam.d.ts": {
+        "version": "9c280ff65ff370bb3b42e762fb58bad0dffa3e0207c5326c3c57008a54cdf9b4",
+        "signature": "9c280ff65ff370bb3b42e762fb58bad0dffa3e0207c5326c3c57008a54cdf9b4"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/opcode.d.ts": {
+        "version": "35cfcbf218a767ee9fc3469f6b0449a3104e3903ede5a6e807669f0291c40605",
+        "signature": "35cfcbf218a767ee9fc3469f6b0449a3104e3903ede5a6e807669f0291c40605"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/scriptbuilder.d.ts": {
+        "version": "cdc804054a03b847ae605483a6e317026de8c6c8640ba8479975a5722987d01e",
+        "signature": "cdc804054a03b847ae605483a6e317026de8c6c8640ba8479975a5722987d01e"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/core.d.ts": {
+        "version": "99c5f4e8b1b4a3a350075a4c1e27d138aadcb592393a65761b9e68eb40dccbdd",
+        "signature": "99c5f4e8b1b4a3a350075a4c1e27d138aadcb592393a65761b9e68eb40dccbdd"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/stackitem.d.ts": {
+        "version": "9dda0630266713adc2f3671cc6700bad9b49453049e77bd6b3bd1538d2ec33f3",
+        "signature": "9dda0630266713adc2f3671cc6700bad9b49453049e77bd6b3bd1538d2ec33f3"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/index.d.ts": {
+        "version": "1ffe9fe9020fd76d9e9a9fc6279f870a9f12116a4272551f0323bd051df2ba2c",
+        "signature": "1ffe9fe9020fd76d9e9a9fc6279f870a9f12116a4272551f0323bd051df2ba2c"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/parse.d.ts": {
+        "version": "c539aa09bc1fb65330c1dc2aec6d1d4a3f49c05cbaaa438a40b8a39697399a93",
+        "signature": "c539aa09bc1fb65330c1dc2aec6d1d4a3f49c05cbaaa438a40b8a39697399a93"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/rpcclient.d.ts": {
+        "version": "3a787c5ce3341a3c115bc180d35430094728954db737d1f3a34734b634c22f51",
+        "signature": "3a787c5ce3341a3c115bc180d35430094728954db737d1f3a34734b634c22f51"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/index.d.ts": {
+        "version": "a2e9c66037fc06df51676802fc61f3e87ff9a33f1de679149b0c9a036069754b",
+        "signature": "a2e9c66037fc06df51676802fc61f3e87ff9a33f1de679149b0c9a036069754b"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transaction.d.ts": {
+        "version": "1e64561adde0deb3d32d665a8022bfa6df44ef9aff9e19bd1a5dd8f9334778d1",
+        "signature": "1e64561adde0deb3d32d665a8022bfa6df44ef9aff9e19bd1a5dd8f9334778d1"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/claimtransaction.d.ts": {
+        "version": "f5862de3587c69999ec42b4a4238265b37bfd71a431dd3865ded2c96a90d8383",
+        "signature": "f5862de3587c69999ec42b4a4238265b37bfd71a431dd3865ded2c96a90d8383"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/contracttransaction.d.ts": {
+        "version": "88da826d758117399b7a5a190b1537846930a79263ae52a93be205eddd9ee179",
+        "signature": "88da826d758117399b7a5a190b1537846930a79263ae52a93be205eddd9ee179"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/invocationtransaction.d.ts": {
+        "version": "38f8eb9f105f872dea022300afe4d23f7acb462f23c05c6712e178b9bd3fe247",
+        "signature": "38f8eb9f105f872dea022300afe4d23f7acb462f23c05c6712e178b9bd3fe247"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/statetransaction.d.ts": {
+        "version": "ad04541b091a8620072a22667c75f3d5d1cf32b583d739ccb0445a065dbb1e90",
+        "signature": "ad04541b091a8620072a22667c75f3d5d1cf32b583d739ccb0445a065dbb1e90"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/minertransaction.d.ts": {
+        "version": "ab75d51e8ef71de6f1a16e7ec7652618a076d7f0006e9e765ecad78491f98656",
+        "signature": "ab75d51e8ef71de6f1a16e7ec7652618a076d7f0006e9e765ecad78491f98656"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/issuetransaction.d.ts": {
+        "version": "27610671effeac26c3771b12ff70957b183359bf5b31c2a801b026d43c24681d",
+        "signature": "27610671effeac26c3771b12ff70957b183359bf5b31c2a801b026d43c24681d"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/registertransaction.d.ts": {
+        "version": "2c9f58d94431320395f9bbf2614afbd205c7c431555be31e55ff0dd1167be818",
+        "signature": "2c9f58d94431320395f9bbf2614afbd205c7c431555be31e55ff0dd1167be818"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts": {
+        "version": "294c2782735e2123924c2178e49c76f8250cfeddab37d9c38e6f42839a70a7d5",
+        "signature": "294c2782735e2123924c2178e49c76f8250cfeddab37d9c38e6f42839a70a7d5"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/publishtransaction.d.ts": {
+        "version": "9bb14f31cfc2851b33eef0a4c1ed82314e35e77fda18c903f4af77c550fa1fc4",
+        "signature": "9bb14f31cfc2851b33eef0a4c1ed82314e35e77fda18c903f4af77c550fa1fc4"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/index.d.ts": {
+        "version": "42b5c6aa25e36c2b737e0892110f78a6d07895d0d099b847a3eb89d9f06d437b",
+        "signature": "42b5c6aa25e36c2b737e0892110f78a6d07895d0d099b847a3eb89d9f06d437b"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/calculate.d.ts": {
+        "version": "e079ffbd342354743533249336dd88424c18a1b3d1888c1f3716fb19a4683ca9",
+        "signature": "e079ffbd342354743533249336dd88424c18a1b3d1888c1f3716fb19a4683ca9"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/index.d.ts": {
+        "version": "de4f6089306c6baf18cc8587a018fead5067536d0e1adfcafdb8afd3145cb5a8",
+        "signature": "de4f6089306c6baf18cc8587a018fead5067536d0e1adfcafdb8afd3145cb5a8"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/settings.d.ts": {
+        "version": "9844d3456d54c4a7a73d8fddbd2d9b8a6b24a03c59d3cc2a7083a02c5d16103f",
+        "signature": "9844d3456d54c4a7a73d8fddbd2d9b8a6b24a03c59d3cc2a7083a02c5d16103f"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts": {
+        "version": "55746f39cf73d22c7839d77be0d8024b2b955a33ec8527d884979a5b6c2360b6",
+        "signature": "55746f39cf73d22c7839d77be0d8024b2b955a33ec8527d884979a5b6c2360b6"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/abi.ts": {
+        "version": "f190ddf309013f4f524d3e25e5d53b096dd4519bd69b9a7da9663b5f1a6a87a1",
+        "signature": "0b95bcec467f6caf2f93c493e3c7c1df149a5ccacc75ef0a2ff0724bc37e7faf"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/main.ts": {
+        "version": "fcbfc80e2f3e5bb83644419fd0444f2b210d70e1fa8f4dbfeab62bff68baa04b",
+        "signature": "4614f7d232a0da994f87e83dcea14debed6b1ce327fc0ad8151a425ad9997aaa"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/plugin.ts": {
+        "version": "88d4bc1063a21b406bfc2e4b715d55bba7a5af49506e0d231cf809482563dd6d",
+        "signature": "9b82a2900ee6e74a585e5e4f526c5f094e3cdd43c1582355f5ba4da5bff5dd2c"
+      },
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/index.ts": {
+        "version": "3df92b1d1459937e71b8f607e4e32429f10df1321e8062481647b0b6db06dc17",
+        "signature": "f387405bd0f885e9a5e56914b2569bfad686035d6f9be3ad1d6f6ff1644e17b6"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/anymatch/index.d.ts": {
+        "version": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
+        "signature": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts": {
+        "version": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57",
+        "signature": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__generator/index.d.ts": {
+        "version": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3",
+        "signature": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "44d81327b8fbb2d7ca0701f5b7bb73e48036eb99a87356acf95f19ed96e907aa",
+        "signature": "44d81327b8fbb2d7ca0701f5b7bb73e48036eb99a87356acf95f19ed96e907aa"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f",
+        "signature": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__core/index.d.ts": {
+        "version": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420",
+        "signature": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/base-x/index.d.ts": {
+        "version": "0b9553b16673bdaeafdd01133f31e6a35676aa140abf17a03655316cb5cf193c",
+        "signature": "0b9553b16673bdaeafdd01133f31e6a35676aa140abf17a03655316cb5cf193c"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/bn.js/index.d.ts": {
+        "version": "b5c402b51d6bc805d447d1824fda6dbf299b36c8941e481f1cf0816080b6d44e",
+        "signature": "b5c402b51d6bc805d447d1824fda6dbf299b36c8941e481f1cf0816080b6d44e"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/bs58/index.d.ts": {
+        "version": "5cbc27193321e6ba10f4e9f3c5519649d9e2716cf103efd7eaa7a89e0f8ed1d4",
+        "signature": "5cbc27193321e6ba10f4e9f3c5519649d9e2716cf103efd7eaa7a89e0f8ed1d4"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/crypto-js/index.d.ts": {
+        "version": "1a95c84dec7c569b635e51de424ae9334d6c9e65f9e0d79c55d639914132c585",
+        "signature": "1a95c84dec7c569b635e51de424ae9334d6c9e65f9e0d79c55d639914132c585"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/eslint-visitor-keys/index.d.ts": {
+        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/minimatch/index.d.ts": {
+        "version": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633",
+        "signature": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/glob/index.d.ts": {
+        "version": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee",
+        "signature": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2",
+        "signature": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/jest-diff/index.d.ts": {
+        "version": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06",
+        "signature": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/types.d.ts": {
+        "version": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7",
+        "signature": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/index.d.ts": {
+        "version": "b2c5ded6320c45c5d3e1c481c5d2808adf24dd1a59ffc944b72a418e95da5b17",
+        "signature": "b2c5ded6320c45c5d3e1c481c5d2808adf24dd1a59ffc944b72a418e95da5b17"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/jest/index.d.ts": {
+        "version": "0b2687f2819f7f50d1f2082900afb0ec9d265ae4b825135beef222f8e16b2c7e",
+        "signature": "0b2687f2819f7f50d1f2082900afb0ec9d265ae4b825135beef222f8e16b2c7e"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/json-schema/index.d.ts": {
+        "version": "751b8d5b85eee82bd38964a6ff43e89e61a586c64f653e3d1eb8fa7eb372ed30",
+        "signature": "751b8d5b85eee82bd38964a6ff43e89e61a586c64f653e3d1eb8fa7eb372ed30"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/loglevel/index.d.ts": {
+        "version": "936817f7caf33d5cd6e7d4fcbf1db4463c48efcea6190fdb0cf68d0fd5505a3a",
+        "signature": "936817f7caf33d5cd6e7d4fcbf1db4463c48efcea6190fdb0cf68d0fd5505a3a"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/tapable/index.d.ts": {
+        "version": "c3175d4a7894de56cdc5e62f4269f1f57c2f08da88d3a91ad47bc0652ac8cb46",
+        "signature": "c3175d4a7894de56cdc5e62f4269f1f57c2f08da88d3a91ad47bc0652ac8cb46"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/source-map/source-map.d.ts": {
+        "version": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579",
+        "signature": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/uglify-js/index.d.ts": {
+        "version": "bdc18dd47aea9977e419a8e03e7e5d04ed8cf8265e014d8788848b76b969cbba",
+        "signature": "bdc18dd47aea9977e419a8e03e7e5d04ed8cf8265e014d8788848b76b969cbba"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/webpack/index.d.ts": {
+        "version": "aec23213f6b30c791207b99074a3e5e6e9a08bd212fa14e47c1a0ae131ce2423",
+        "signature": "aec23213f6b30c791207b99074a3e5e6e9a08bd212fa14e47c1a0ae131ce2423"
+      },
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/yargs/index.d.ts": {
+        "version": "8f3237f03af87871a18d49ff52dec94d71eabecca464d5f2a81e34b55fb60bb5",
+        "signature": "8f3237f03af87871a18d49ff52dec94d71eabecca464d5f2a81e34b55fb60bb5"
+      }
+    },
+    "options": {
+      "target": 2,
+      "module": 1,
+      "moduleResolution": 2,
+      "composite": true,
+      "declaration": true,
+      "declarationMap": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "sourceMap": true,
+      "resolveJsonModule": true,
+      "rootDir": "/Users/aaronchen/cobo/neon-js/packages/neon-nep5/src",
+      "outDir": "dist",
+      "configFilePath": "/Users/aaronchen/cobo/neon-js/packages/neon-nep5/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/network.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/protocol.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/bignumber.js/bignumber.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/misc.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/convert.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/hash.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/stringstream.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/random.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/account.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/nep2.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/helper.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/balance.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/claimitem.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/claims.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/claimitem.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/node/inspector.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/inspector.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/node_modules/@types/bn.js/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/node_modules/@types/bn.js/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/signing.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/claimitem.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/wallet.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/account.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/nep2.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/account.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/balance.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/claims.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/core.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/nep2.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/verify.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/signing.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/wallet.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/multisig.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionattribute.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/txattrusage.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactioninput.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionoutput.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/witness.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/statedescriptor.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionattribute.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactioninput.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionoutput.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/witness.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/statedescriptor.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/query.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/axios/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/scriptbuilder.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/opcode.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/core.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/scriptbuilder.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/contractparam.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/core.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/scriptbuilder.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/stackitem.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/opcode.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/parse.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/rpcclient.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/axios/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/parse.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/query.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/network.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/protocol.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/query.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/rpcclient.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/parse.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/claimtransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/contracttransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/invocationtransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/statetransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/minertransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/issuetransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/registertransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/publishtransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/contractparam.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/claimtransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/contracttransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/invocationtransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/statetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/minertransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/issuetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/registertransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/publishtransaction.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/calculate.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/txattrusage.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/calculate.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/settings.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/consts.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/logging.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/settings.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/abi.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/main.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/abi.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/plugin.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/abi.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/main.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/index.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/plugin.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__template/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__core/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__generator/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__template/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/bn.js/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/bs58/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/base-x/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/glob/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/minimatch/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/jest/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/jest-diff/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/uglify-js/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/source-map/source-map.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/webpack/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/tapable/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/uglify-js/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/anymatch/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/source-map/source-map.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/network.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/protocol.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/bignumber.js/bignumber.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/misc.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/convert.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/hash.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/stringstream.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/random.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/account.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/nep2.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/helper.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/balance.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/claimitem.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/claims.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/claimitem.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/node/inspector.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/inspector.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/node_modules/@types/bn.js/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/node_modules/@types/bn.js/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/signing.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/claimitem.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/wallet.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/account.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/nep2.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/account.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/balance.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/claims.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/core.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/nep2.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/verify.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/signing.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/wallet.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/multisig.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionattribute.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/txattrusage.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactioninput.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionoutput.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/witness.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/statedescriptor.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionattribute.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactioninput.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionoutput.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/witness.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/statedescriptor.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/query.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/axios/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/scriptbuilder.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/opcode.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/core.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/scriptbuilder.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/contractparam.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/core.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/scriptbuilder.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/stackitem.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/opcode.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/parse.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/rpcclient.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/axios/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/parse.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/query.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/network.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/protocol.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/query.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/rpcclient.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/parse.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/claimtransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/contracttransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/invocationtransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/statetransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/minertransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/issuetransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/registertransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/publishtransaction.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/contractparam.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/claimtransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/contracttransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/invocationtransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/statetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/minertransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/issuetransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/registertransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/publishtransaction.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/calculate.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/txattrusage.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/calculate.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/settings.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/consts.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/logging.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/settings.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/abi.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/main.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/plugin.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/abi.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/main.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/index.ts": [
+        "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/plugin.ts",
+        "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__template/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__core/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__generator/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__template/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/bn.js/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/bs58/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/base-x/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/glob/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/minimatch/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/jest/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/jest-diff/index.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/uglify-js/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/source-map/source-map.d.ts"
+      ],
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/webpack/index.d.ts": [
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/tapable/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/uglify-js/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/anymatch/index.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/source-map/source-map.d.ts",
+        "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es6.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es5.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.dom.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/consts.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/logging.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/protocol.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/network.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/axios/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/misc.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/convert.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/hash.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/bignumber.js/bignumber.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/fixed8.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/stringstream.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/random.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/u/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/nep2.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/account.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/helper.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/coin.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/assetbalance.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/balance.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/claimitem.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/claims.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/core.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/verify.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/events/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/node/inspector.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/node/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/node_modules/@types/bn.js/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/elliptic/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/signing.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/components/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/wallet.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/multisig.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/wallet/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/txattrusage.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionattribute.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactioninput.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/transactionoutput.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/witness.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/statedescriptor.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/components/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/strategy.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/basetransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/query.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/contractparam.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/opcode.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/scriptbuilder.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/core.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/stackitem.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/sc/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/parse.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/rpcclient.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/rpc/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/transaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/claimtransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/contracttransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/invocationtransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/statetransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/minertransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/issuetransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/registertransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/publishtransaction.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/transaction/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/calculate.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/tx/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/settings.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-core/lib/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/abi.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/main.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/plugin.ts",
+      "/users/aaronchen/cobo/neon-js/packages/neon-nep5/src/index.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/anymatch/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@babel/types/lib/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__generator/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__traverse/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__template/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/babel__core/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/base-x/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/bn.js/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/bs58/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/crypto-js/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/eslint-visitor-keys/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/minimatch/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/glob/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-lib-report/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/istanbul-reports/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/jest-diff/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/types.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/jest-diff/build/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/jest/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/json-schema/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/loglevel/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/stack-utils/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/tapable/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/source-map/source-map.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/uglify-js/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/webpack/index.d.ts",
+      "/users/aaronchen/cobo/neon-js/node_modules/@types/yargs/index.d.ts"
+    ]
+  },
+  "version": "3.5.3"
+}
